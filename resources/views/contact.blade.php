@@ -4,7 +4,7 @@
 
 @section('content')
 <main>
-    <h1>Ciao {{$name}} {{$surname}} </h1>
+    <h1>Ciao</h1>
 </main>
 
 @endsection
